@@ -39,7 +39,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 https://user-images.githubusercontent.com/35890296/180091685-99f22006-6428-49bb-ae16-c1a0ec625f9d.mp4
 
-![This is an image](https://user-images.githubusercontent.com/35890296/180091685-99f22006-6428-49bb-ae16-c1a0ec625f9d.mp4)
+[This is an image](https://user-images.githubusercontent.com/35890296/180091685-99f22006-6428-49bb-ae16-c1a0ec625f9d.mp4)
 
 <iframe src="https://www.youtube.com/embed/z08HfCVwxGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
